@@ -1,0 +1,73 @@
+<html>
+	    <head>
+       <Title>Devlyn</Title>
+       <Link rel="Shortcut icon" href="Optica.jpg">
+	   <link rel="stylesheet" href="Estilo.css">
+	   
+    </head>
+		<body>
+		<center>
+		<div class="dev">
+			<img src=Devlyn.png class="Img2">
+	
+			<h1>
+				La Vision de Mexico
+			</h1>  
+			<div class="Cajas">
+					
+					<A href="Lentes_De_Contacto.html"> <img src="Contacto.jpg" class="Img_box"></A>
+					 <div class="Caja_de_texto">
+					 Lentes de contacto
+				</div>
+				<div class="Caja_de_texto">
+				689,25.MX
+				</div>
+					</div>
+	</div>
+							<div class="dav">
+				
+				<div class="Cajas">
+					
+					 <A href="Gafas.html"><img src="Optico.jpg" width="150" height="200"></A>
+				</div>
+				<div class="Cajas">
+					
+					<A href="Lentes_De_Contacto.html"> <img src="Contacto.jpg" width="150" height="200"></A>
+					 
+					</div>
+				<div class="Cajas">
+					
+					 <A href="Microfibra.html"> <img src="Trapo.jpg" width="150" height="200"></A>
+					 
+					</div>
+					<div class="Cajas">
+					
+					 <A href="Tabla_Examen.html"><img src= "Tabla.png" width="150" height="200"></A>
+					 
+					</div>
+			</div>
+	<div class="duv">
+		<table class="sin">
+			<tr>
+				<td class="sin"><A href="Pagina web.html"> <img src="principal.png"></A></td>
+				<td class="sin"><A href="Saber_sobre_nosotros.html"> <img src="Historia.png"></A></td>
+				<td class="sin" ><A href="Contacto.html"> <img src="Contacto.png"></A></td>
+				<td class="sin"><A href="productos.html"> <img src="productos.png"></A></td>
+			</tr>
+		</table>
+		</div>
+		
+			<div>
+			<p>
+			
+		  &copy; 2022. Deredros reservados<br>
+		  Desarrollado por: Salinas Salazar Angel Bryant del
+		  grupo 605<br>
+		  Matricula:01905300 del plantel nueva Tijuana
+			
+			</p> 
+			</div>
+			</center>
+    </body>
+</Html>
+</html>

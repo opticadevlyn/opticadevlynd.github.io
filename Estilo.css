@@ -1,0 +1,242 @@
+body{
+	Background:#628780;
+}
+h1{
+	color:   #4371FF;
+	font-family: Arial;
+	font-size: 50px;
+	text-align: center;				
+}
+P{
+	color:   #000000;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italie;
+}
+table{ 
+		color= #2E9AFE;
+	    font-family: Arial;
+		font-size: 20px;
+		text-align: center;
+		padding: 1%;
+		border-style: solid;
+		border-color: #2E9AFE;
+}		
+td{
+	text-align: center;
+	Background: #2E9AFE;
+}
+tr{ 
+	color: #000000;
+}
+th{
+	text-align: center;
+	Background: #0000FF;
+}
+ /*Tabla de */
+.sin{
+	border: 0;
+	border-style: transparent;
+	background-color: transparent;
+}
+.son{
+    color:   #000000;
+	font-family: Times New Roman;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italie;
+}
+font{
+	color:   #000000;
+	font-family: Times New Roman;
+	font-size: 50px;
+	text-align: center;
+	font-style: solid;
+}
+input{
+	color:   #000000;
+	font-family: Times New Roman;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italie;
+}
+.sun{
+		color= #2E9AFE;
+	    font-family: Arial;
+		font-size: 20px;
+		text-align: center;
+		padding: 1%;
+		border-style: solid;
+		border-color: #2E9AFE;
+		border: 3;
+}
+div{
+	Background: #628780;
+	border: 2px;
+	border-style: Solid;
+
+}
+.dav{
+	Background:#6CFF96;
+	border: 5px;
+	border-style: transparent;
+	padding: 0%;
+}
+.dev{
+	Background:#9DF5FF;
+	border-style: solid;
+	border-color: #FFFFFF;
+	padding: 0%;
+	
+}
+.dov{
+	Background:#9DF5FF ;
+	border: 0px;
+	height: 60%;
+}
+.duv{
+	background:#C9FFD9;
+	border-style: transparent;
+	border:0px;
+}
+.Cajas{
+	height: 300px;
+	width: 250px;
+	background:#44D8EA;
+	border: 1px solid;
+	margin:5px;
+	text-align: center;
+	font-family: "Lato", Sans-serif;
+	display: inline-block;
+}
+.Cajas:hover{
+	box-shadow:0 0 10px red;
+	transform: scale(1.3);
+}
+.Caja_de_Texto{
+	padding-bottom:5px;
+	padding-top:2px;
+	color:9DF5FF;
+	font-size:30px;
+	font-weight:bold;
+	background:#44D8EA;
+}
+.texto_Adicional{
+	Padding: 5px;
+	font-size:25px;
+}
+.Box{
+	height: 300px;
+	width: 250px;
+	background:#ABE3EA;
+	border: 1px solid;
+	margin:5px;
+	text-align: center;
+	font-family: "Lato", Sans-serif;
+	display: inline-block;
+}
+.The_Box{
+	height: 300px;
+	width: 250px;
+	background:#9DF5FF;
+	border: 1px solid;
+	margin:5px;
+	text-align: center;
+	font-family: "Lato", Sans-serif;
+	display: inline-block;
+}
+.Mini_Box{
+	padding-bottom:5px;
+	padding-top:2px;
+	color:#000000;
+	font-size:30px;
+	font-weight:bold;
+	background:#9DF5FF;
+	border:2px;
+}
+.Img2{
+	width:450;
+	height:200;
+}
+.Img_PW{
+	width:400;
+	height:400;
+}
+.Img_Productos{
+	width:250;
+	height:200;
+}
+.Img_box{
+	width:240;
+	height:200;
+}
+.Img_Venta{
+	width:250;
+	height:300;
+}
+@font-face{
+	font-family: "LaFuente";
+	src: url(BUTTERSHINE.otf);
+}
+#fuente-Buttershine{
+		font-family: "LaFuente";
+}
+@font-face{
+	font-family: "La_Historia";
+	src: url(Arimo.ttf);
+}
+#fuente-Arimo{
+		font-family: "La_Historia";
+}
+.H71{
+	color:   #000000;
+	font-family: Arial;
+	font-size: 50px;
+	text-align: center;	
+}
+.H72{
+	color:   #000000;
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;	
+	}
+	
+@font-face{
+	font-family: "ElFuente";
+	src: url(BabyScript.ttf);
+}
+#fuente-BabyScript{
+		font-family: "ElFuente";
+}
+.h73{
+	color:   #000000;
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italie;
+}
+.dav2{
+	Background:#9DF5FF;
+	border: 5px;
+	border-style: transparent;
+	padding: 0%;
+}
+.Cajas2{
+	height: 140px;
+	width: 140px;
+	background:#44D8EA;
+	border: 1px solid;
+	margin:5px;
+	text-align: center;
+	font-family: "Lato", Sans-serif;
+	display: inline-block;
+}
+.Cajas2:hover{
+	box-shadow:0 0 10px blue;
+	transform: scale(1.3);
+}
